@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="payless">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/distributions/payless.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
